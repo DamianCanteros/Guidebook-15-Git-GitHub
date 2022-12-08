@@ -1,2 +1,2 @@
 # Guidebook-Git-GitHub
-Pablo Gimenez
+Pablo Gimenez Max
